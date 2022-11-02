@@ -11,6 +11,7 @@
   * [Licentie](#licentie)
 
 ## Beschrijving
+"Als docent wil ik een prettig te navigeren overzicht met alle werkvormen zodat ik een werkvorm kan vinden die bij mijn les past."
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 <!-- Voeg een mooie poster visual toe 📸 -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
